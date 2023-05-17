@@ -17,7 +17,7 @@
 
 
 <div style="display: inline_block" align="center"><br>
-    I'm a Back-end developer who likes to work with Java, Node, Go and Python among others. 
+    <h2>I'm a Back-end developer who likes to work with Java, Node, Go and Python among others. </h2>
     <br /><br />
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
