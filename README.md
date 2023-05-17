@@ -30,7 +30,7 @@
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbsimao&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
+  <br /><br />
 </div>
 
 In addition to my current job at Ame Digital, I enjoy working on personal projects that allow me to apply new knowledge and technologies. Recently, I have been working on projects related to machine learning and facial recognition systems. One of these projects was developed during Ame's Hackathon, where I worked on a facial recognition payment method that is currently being used in Americanas stores.
