@@ -33,4 +33,4 @@ Another project that I am currently working on is the development of an algorith
 * Technology and software
 * Machine learning projects: [Porto seguro kaggle](https://github.com/lucasbsimao/porto-seguro-kaggle-competition), [2D Race generator NEAT](https://github.com/lucasbsimao/autoNEAT)
 * Astronomy
-* Chess ([In case you are up for a challenge :zap:](https://www.chess.com/member/lucasb001)
+* Chess ([In case you are up for a challenge :zap:](https://www.chess.com/member/lucasb001))
