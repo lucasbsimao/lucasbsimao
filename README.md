@@ -17,13 +17,16 @@
 
 
 <div style="display: inline_block" align="center"><br>
-    I'm a Back-end developer who likes to work with Java, Node, Go and Python among others. <br />
+    I'm a Back-end developer who likes to work with Java, Node, Go and Python among others. 
+    <br /><br />
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
+
+<br /><br />
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbsimao&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
