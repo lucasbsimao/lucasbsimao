@@ -33,8 +33,7 @@
   <br /><br />
 </div>
 
-In addition to my current job at Ame Digital, I enjoy working on personal projects that allow me to apply new knowledge and technologies. Recently, I have been working on projects related to machine learning and facial recognition systems. One of these projects was developed during Ame's Hackathon, where I worked on a facial recognition payment method that is currently being used in Americanas stores.
-Another project that I am currently working on is the development of an algorithm to improve player lineups in Cartola FC, which takes into account the statistics available through the API of the Globo Esporte website, which is available on this repo [Cartola Analytics](https://github.com/lucasbsimao/cartola_analytics).
+Back-end developer for over 8 years, with solid knowledge of Java, Node and AWS. Additionally, I have good understanding and practice experience of applying DDD, TDD and both synchronous and asynchronous Microservices. I'm usually a mentor to new people, having designed the first team onboarding process at Ame. I also have the practice of teaching people with less experience, having several lectures in my curriculum that often result in POCs that contribute a lot to the growth of the business and the projects I work on. I really like to integrate myself and I can say that there is no team that I cannot fit in.
 
 #### 🧡 &nbsp;&nbsp;My passions
 
