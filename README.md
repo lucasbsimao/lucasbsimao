@@ -17,7 +17,7 @@
 
 
 <div style="display: inline_block" align="center"><br>
-     <h4>I specialize in back-end development and enjoy working with Java, Node.js, Go, Python, and other technologies.</h4>
+     <h4>I specialized in back-end development and enjoy working with Java, Node.js, Go, Python, and other technologies.</h4>
     <br /><br />
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
